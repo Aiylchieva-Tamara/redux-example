@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+button{
+  background-color: rgb(120, 212, 101);
+  margin: 5px;
+  border: 1px solid lime;
+  border-radius: 10px;
+}
